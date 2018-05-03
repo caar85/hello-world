@@ -1,5 +1,4 @@
 # hello-world
-TestGit
 
 This it is a test.
 
